@@ -1,0 +1,23 @@
+{
+  "name": "lm-bootstrap",
+  "version": "1.0.0",
+  "description": "customer bootstrap template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamtiean/lm-bootstrap.git"
+  },
+  "author": "Tien Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamtiean/lm-bootstrap/issues"
+  },
+  "homepage": "https://github.com/liamtiean/lm-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "3.4.1",
+    "jquery": "3.4.1"
+  }
+}
